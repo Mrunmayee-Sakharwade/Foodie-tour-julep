@@ -1,0 +1,15 @@
+Mumbai, Maharashtra
+Delhi, Delhi
+Chennai, Tamil Nadu
+Kolkata, West Bengal
+Bangalore, Karnataka
+Hyderabad, Telangana
+Pune, Maharashtra
+Jaipur, Rajasthan
+Lucknow, Uttar Pradesh
+Amritsar, Punjab
+Goa, Goa
+Udaipur, Rajasthan
+Varanasi, Uttar Pradesh
+Mysore, Karnataka
+Shimla, Himachal Pradesh

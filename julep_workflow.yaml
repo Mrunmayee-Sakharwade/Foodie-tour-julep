@@ -1,0 +1,7 @@
+name: foodie-tour
+description: Generates a one-day foodie tour based on city weather and iconic dishes
+entrypoint: main.py
+inputs:
+  - name: cities
+    type: list
+    default: ["Mumbai", "Delhi", "Chennai", "Kolkata", "Bangalore", "Hyderabad", "Pune", "Jaipur", "Lucknow", "Amritsar", "Goa", "Udaipur", "Varanasi", "Mysore", "Shimla"]
